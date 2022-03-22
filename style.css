@@ -394,7 +394,7 @@ header .navbar ul li a:hover{
 .mesIcon {
     position: relative;
     bottom: 100px;
-    right: -200px;
+    right: -100px;
     z-index: 100;
     font-size: 2rem;
     padding:1rem 3rem;
