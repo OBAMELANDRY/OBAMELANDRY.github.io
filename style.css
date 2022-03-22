@@ -395,7 +395,7 @@ header .navbar ul li a:hover{
     position: relative;
     bottom: 100px;
     right: -100px;
-    z-index: 100;
+    z-index: 200;
     font-size: 2rem;
     padding:1rem 3rem;
     margin:1.5rem 0;
