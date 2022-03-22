@@ -104,12 +104,12 @@ header .user img{
 
 header .user .name{
     font-size: 3.5rem;
-    color:rgb(189, 207, 21);
+    color:rgb(238, 238, 236);
 }
 
 header .user .post{
     font-size: 2rem;
-    color:rgb(184, 216, 6);
+    color:rgb(122, 6, 216);
 }
 
 header .navbar{
@@ -119,6 +119,7 @@ header .navbar{
 header .navbar ul{
     list-style: none;
     padding:1rem 3rem;
+    
 }
 
 
@@ -371,17 +372,39 @@ header .navbar ul li a:hover{
 }
 
 
+/* Whatsapp Button
+--------------------------------------------- */
+.dmkt-whatsapp-button{
+    position: fixed;
+    bottom: 30px;
+    right: 50px;
+    z-index: 100;
+}
+.dmkt-whatsapp-button .fa-whatsapp:before {
+    color:#fff;
+    border-radius:50%;
+    font-size:40px;
+    background-color: #04772e;
+    padding: 15px;
+}
+.dmkt-whatsapp-button:hover{
+    opacity: 0.8;
+}
 
-
-
-
-
-
-
-
-
-
-
+.mesIcon {
+    position: relative;
+    bottom: 100px;
+    right: -200px;
+    z-index: 100;
+    font-size: 2rem;
+    padding:1rem 3rem;
+    margin:1.5rem 0;
+    
+    
+}
+.mesIcon a:hover{
+    color: red;
+}
 
 
 
