@@ -16,7 +16,7 @@
 
 *::selection{
     background:var(--yellow);
-    color:#333;
+    color:rgb(151, 143, 143);
 }
 
 html{
@@ -29,7 +29,7 @@ html::-webkit-scrollbar{
 }
 
 html::-webkit-scrollbar-track{
-    background:#222;
+    background:rgb(206, 65, 65);
 }
 
 html::-webkit-scrollbar-thumb{
@@ -37,7 +37,7 @@ html::-webkit-scrollbar-thumb{
 }
 
 body{
-    background:#111;
+    background:rgb(38, 54, 42);
     overflow-x: hidden;
     padding-left: 35rem;
 }
