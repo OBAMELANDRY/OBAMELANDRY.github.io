@@ -395,8 +395,8 @@ header .navbar ul li a:hover{
 
 .mesIcon {
     position: relative;
-    bottom: 100px;
-    right: -100px;
+    bottom: 125px;
+    right: -99px;
     z-index: 200;
     font-size: 2rem;
     padding:1rem 3rem;
@@ -417,7 +417,18 @@ header .navbar ul li a:hover{
 }
 
 
+/*
+.dmkt-whatsapp-button .fa-whatsapp:before {
+    color:#fff;
+    border-radius:50%;
+    font-size:40px;
+    background-color: #04772e;
+    padding: 15px;
+}
+.dmkt-whatsapp-button:hover{
+    opacity: 0.8;
 
+*/
 
 /* media queries  */
 
